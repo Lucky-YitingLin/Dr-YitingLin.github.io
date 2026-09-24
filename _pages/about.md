@@ -23,17 +23,17 @@ redirect_from:
 Here is **Yiting Lin（林一挺）**.
 I am currently a research assistant at Beijing Normal-Hong Kong Baptist University (BNBU), advised by [Prof. Donglong CHEN](https://staff.uic.edu.cn/donglongchen/en), within Guangdong Provincial/Zhuhai Key Laboratory of Interdisciplinary Research and Application for Data Science. I am also a PI (Teaching and Research Position/Research Assistant) in [Prof. Wenbin Cheng](https://jsjxy.zsc.edu.cn/szdw/szdwzg/1dje8dg8bfln5.shtml)'s postgraduate research team at University of Electronic Science and Technology of China, Zhongshan Institute. 
 
-I have published over 30 papers since 2022, including 3 papers from the first quartile journals of the Chinese Academy of Sciences. I have authored 10 highly cited papers according to the Essential Science Indicators (ESI), and 3 hot paper according to the ESI. I have served as a peer reviewer for prestigious journals including IEEE TIFS, IEEE TDSC, IEEE TMM, IEEE TIP, IEEE TCSVT, IEEE TCYB, IEEE TSMC-S, IEEE TCAS-I, IEEE TCAS-II, IEEE TBD, IEEE TII, IEEE TCE, IEEE TIE, ACM TOMM, etc., as well as for publications by  academic publishers such as Elsevier, Springer Nature, Wiley, IOP Publishing, Taylor&Francis, MDPI, etc.
+I have published over 30 papers since 2022, including 3 papers from the first quartile journals of the Chinese Academy of Sciences. I have authored 11 highly cited papers according to the Essential Science Indicators (ESI), and 4 hot paper according to the ESI. I have served as a peer reviewer for prestigious journals including IEEE TIFS, IEEE TDSC, IEEE TMM, IEEE TIP, IEEE TCSVT, IEEE TCYB, IEEE TSMC-S, IEEE TCAS-I, IEEE TCAS-II, IEEE TBD, IEEE TII, IEEE TCE, IEEE TIE, ACM TOMM, etc., as well as for publications by  academic publishers such as Elsevier, Springer Nature, Wiley, IOP Publishing, Taylor&Francis, MDPI, etc.
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - YitingLin [at] ieee.org
 
-Real-time data: <a href='https://scholar.google.com/citations?user=yh9vRvQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url_citations | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>  <a href='https://scholar.google.com/citations?user=yh9vRvQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url_hindex | url_encode }}&logo=Google%20Scholar&labelColor=0000ff&color=ffa500&style=plastic&label=H-index"></a> 🔥 <span style="color: red;">ESI Hot Paper: 3</span>  🏆 <span style="color: green;">ESI Highly Cited Paper: 10</span> 
+Real-time data: <a href='https://scholar.google.com/citations?user=yh9vRvQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url_citations | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>  <a href='https://scholar.google.com/citations?user=yh9vRvQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url_hindex | url_encode }}&logo=Google%20Scholar&labelColor=0000ff&color=ffa500&style=plastic&label=H-index"></a> 🔥 <span style="color: red;">ESI Hot Paper: 4</span>  🏆 <span style="color: green;">ESI Highly Cited Paper: 11</span> 
 
 ---
 
 ## 🔍 Masterpiece
 * 👍 **Main Representative Publications**
-   * <span style="color: red;">[NEW]</span>Lin, Y.; Wei, Y.; Chen, D.; Li, Y.; Erkan, U.; Toktas, A.; Gao, S.; Zhang, Y. Cryptanalysis and Improvement of a Video Cryptosystem via Chaos and S-Box. ACM Transactions on Multimedia Computing, Communications, and Applications 2026, 22(6), 1–28. [🌏](https://doi.org/10.1145/3808699)
+   * 🔥 <span style="color: red;">ESI Hot Paper</span>🏆 <span style="color: green;">ESI Highly Cited Paper</span> Lin, Y.; Wei, Y.; Chen, D.; Li, Y.; Erkan, U.; Toktas, A.; Gao, S.; Zhang, Y. Cryptanalysis and Improvement of a Video Cryptosystem via Chaos and S-Box. ACM Transactions on Multimedia Computing, Communications, and Applications 2026, 22(6), 1–28. [🌏](https://doi.org/10.1145/3808699)
    * <span style="color: red;">[NEW]</span>Lin, Y.; Liao, Y.; Zeng, W.; Wei, Y.; Chen, D.; Yuan, X.; Li, Y.; Erkan, U.; Toktas, A.; Zhang, C.; Zhang, Y.; Gao, S. 3D Non-Degenerate Hyperchaos: Design, Analysis, and Application in Image Encryption. IEEE Transactions on Consumer Electronics. 2026, Early Access.[🌏](https://doi.org/10.1109/tce.2026.3672135.)
    * 🔥 <span style="color: red;">ESI Hot Paper</span>🏆 <span style="color: green;">ESI Highly Cited Paper</span>👉 Lin Y, Xie Z, Chen T, Cheng X, Wen H. Image privacy protection scheme based on high-quality reconstruction DCT compression and nonlinear dynamics. Expert Systems with Applications. 2024;257:124891. 🔯 (**Computer Academy of Guangdong Outstanding Research Papers**-Third Prize-2025) [📖](http://www.yitinglin.top/publication/Image%20privacy%20protection%20scheme%20based%20on%20high-quality%20reconstruction%20DCT%20compression%20and%20nonlinear%20dynamics)
 * 📌 **Other Representative Publications**
@@ -94,6 +94,10 @@ Alumni (University of Electronic Science and Technology of China):
 * Xinyu Yang, Mphil 2023.9-2026.8, Jobs at Beijing Kuaishou Technology Co., Ltd.​. (Under Prof. Wenbin Cheng)
 
 ## 📢 NEWS
+[40] Yiting Lin; Xiyuan Cheng; Yunlong Liao; Wenbin Cheng. Cryptanalysis and Improvement of Medical Image Cryptosystem via Fractional-Order Memristive Hopfield Neural Network. Fractal Fract. 2026, 10 (10), 661. https://doi.org/10.3390/fractalfract10100661
+
+[39] Yaokang Li; Yunan Wei; Jing Cai; Wenbin Cheng; Yiting Lin. Explicit Future Pattern-Enhanced Multivariate Time Series Forecasting. Entropy 2026, 28 (9), 1031. https://doi.org/10.3390/e28091031
+
 [38] Jing Wang; Chi Duan; Pengbo Liu; Yong Zhang; Wenjun Zeng; Donglong Chen; Yiting Lin. Layer-Coupled Co-Evolutionary Cellular Automata: A Cross-Plane Diffusion Approach for Chaotic Image Privacy Protection. Expert Systems with Applications 2026, 133795. https://doi.org/10.1016/j.eswa.2026.133795.
 
 [37] Jie Zhang; Wenjie Zhou; Mingxu Wang; Yiting Lin. 3D-TCM-Driven Bit-Level Image Encryption via S-Box Feedback Algorithm. Entropy 2026, 28 (5), 535. https://doi.org/10.3390/e28050535.
@@ -102,7 +106,7 @@ Alumni (University of Electronic Science and Technology of China):
 
 [35] Shuqin Zhu; Wenjun Zeng; Congxu Zhu; Yiting Lin. Visual Meaningful Image Encryption Algorithm Based on 3D Discrete Hyperchaotic Map and Compressive Sensing. Results in Engineering 2026, 110766. https://doi.org/10.1016/j.rineng.2026.110766.
 
-[34] Yiting Lin; Yunan Wei; Donglong Chen; Yupeng Li; Ugur Erkan; Abdurrahim Toktas; Suo Gao; Yong Zhang. Cryptanalysis and Improvement of a Video Cryptosystem via Chaos and S-Box. ACM Transactions on Multimedia Computing, Communications, and Applications 2026, 22(6), 1–28.  https://doi.org/10.1145/3808699.
+[34] Yiting Lin; Yunan Wei; Donglong Chen; Yupeng Li; Ugur Erkan; Abdurrahim Toktas; Suo Gao; Yong Zhang. Cryptanalysis and Improvement of a Video Cryptosystem via Chaos and S-Box. ACM Transactions on Multimedia Computing, Communications, and Applications 2026, 22(6), 1–28.  https://doi.org/10.1145/3808699. 🔥 <span style="color: red;">ESI Hot Paper</span>🏆 <span style="color: green;">ESI Highly Cited Paper</span> 
 
 [33] Zeyu Zhang; Wenqiang Zhang; Mingxu Wang; Na Ren; Peizhen Zhang; Yiting Lin. Robust Image Encryption Exploiting 2D Hyper-Chaos, Fractal Sierpiński Carpet Confusion, and Cascaded Diffusion. Symmetry 2026, 18 (4), 643. https://doi.org/10.3390/sym18040643.
 
