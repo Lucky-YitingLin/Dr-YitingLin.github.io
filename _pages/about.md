@@ -94,9 +94,11 @@ Alumni (University of Electronic Science and Technology of China):
 * Xinyu Yang, Mphil 2023.9-2026.8, Jobs at Beijing Kuaishou Technology Co., Ltd.​. (Under Prof. Wenbin Cheng)
 
 ## 📢 NEWS
-[40] Yiting Lin; Xiyuan Cheng; Yunlong Liao; Wenbin Cheng. Cryptanalysis and Improvement of Medical Image Cryptosystem via Fractional-Order Memristive Hopfield Neural Network. Fractal Fract. 2026, 10 (10), 661. https://doi.org/10.3390/fractalfract10100661
+[41] 🐲 [Invited Paper] Yiting Lin; Xiyuan Cheng; Yunlong Liao; Wenbin Cheng. Cryptanalysis and Improvement of Memristive Hopfield Neural Network Color Image Cryptosystem. Computers 2026, 15 (10), 672. https://doi.org/10.3390/computers15100672
 
-[39] Yaokang Li; Yunan Wei; Jing Cai; Wenbin Cheng; Yiting Lin. Explicit Future Pattern-Enhanced Multivariate Time Series Forecasting. Entropy 2026, 28 (9), 1031. https://doi.org/10.3390/e28091031
+[40] 🐲 [Invited Paper] Yiting Lin; Xiyuan Cheng; Yunlong Liao; Wenbin Cheng. Cryptanalysis and Improvement of Medical Image Cryptosystem via Fractional-Order Memristive Hopfield Neural Network. Fractal Fract. 2026, 10 (10), 661. https://doi.org/10.3390/fractalfract10100661
+
+[39] 🐲 [Invited Paper] Yaokang Li; Yunan Wei; Jing Cai; Wenbin Cheng; Yiting Lin. Explicit Future Pattern-Enhanced Multivariate Time Series Forecasting. Entropy 2026, 28 (9), 1031. https://doi.org/10.3390/e28091031
 
 [38] Jing Wang; Chi Duan; Pengbo Liu; Yong Zhang; Wenjun Zeng; Donglong Chen; Yiting Lin. Layer-Coupled Co-Evolutionary Cellular Automata: A Cross-Plane Diffusion Approach for Chaotic Image Privacy Protection. Expert Systems with Applications 2026, 133795. https://doi.org/10.1016/j.eswa.2026.133795.
 
