@@ -94,6 +94,12 @@ Alumni (University of Electronic Science and Technology of China):
 * Xinyu Yang, Mphil 2023.9-2026.8, Jobs at Beijing Kuaishou Technology Co., Ltd.​. (Under Prof. Wenbin Cheng)
 
 ## 📢 NEWS
+[46] Yiting Lin; Donglong Chen. Cryptanalysis and Improvement of a Robust Image Encryption Method Based on DNA Nucleotide Randomness. Inscrypt 2026. Lecture Notes in Computer Science, 2026, 557–570. https://doi.org/10.1007/978-981-92-7675-2_27
+
+[45] 🐲 [Invited Paper] 🐲 Yiting Lin; Xiyuan Cheng; Yaokang Li; Yunan Wei; Wenbin Cheng. Cryptanalysis of Image Cryptosystem via Finite-Time Projective Synchronization in Fractional-Order Inertial Memristive Neural Networks. Fractal Fract. 2026, 10 (11), 770. https://doi.org/10.3390/fractalfract10110770
+
+[44] Yunlong Liao; Yiting Lin; Donglong Chen; Xiaochen Yuan. Color Image Privacy Protection via Quaternion Channel Permutation and Multi-Pass Chaotic Diffusion. 2026 11th International Conference on Signal and Image Processing (ICSIP), 2026, 1–6. https://doi.org/10.1109/icsip70099.2026.11744339
+
 [43] 🐲 [Invited Paper] 🐲 Yiting Lin; Xiyuan Cheng; Yunlong Liao; Wenbin Cheng. Cryptanalysis and Improved Image Cryptosystem via Chaos and Convolutional Neural Network. Information 2026, 17 (10), 1051. https://doi.org/10.3390/info17101051
 
 [42] 🐲 [Invited Paper] 🐲 Yiting Lin; Xiyuan Cheng; Yunlong Liao; Wenbin Cheng. Cryptanalysis and Improvement of an Image Cryptosystem via Chaotic Synchronization and Artificial Neural Networks in Modified OTP Scheme. AI 2026, 7 (10), 425. https://doi.org/10.3390/ai7100425
